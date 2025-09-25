@@ -1,4 +1,4 @@
-.comic-relief-regular {
+/* .comic-relief-regular {
   font-family: "Comic Relief", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -19,4 +19,11 @@
   font-family: "Story Script", sans-serif;
   font-weight: 400;
   font-style: normal;
+} */
+
+/* ACORDEON */
+.accordion{
+--bs-accordion-btn-bg: #fac37f;
+--bs-accordion-active-bg: #cd853f;
+
 }
