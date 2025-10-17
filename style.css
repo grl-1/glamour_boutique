@@ -1,0 +1,41 @@
+/* .comic-relief-regular {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-relief-bold {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+.edu-sa-hand-{
+  font-family: "Edu SA Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+/* ACORDEON */
+.accordion{
+--bs-accordion-btn-bg: #c8b273;
+--bs-accordion-active-bg: #ad8a1f;
+
+}
+
+
+/* TEXTO JUSTIFICADO */
+.justify{
+text-align: justify;
+
+}
+
+.border-color{
+border-color: #c8b273;
+
+}
